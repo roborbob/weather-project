@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/weather-project/static/css/main.eb207c3e.chunk.css",
-    "main.js": "/weather-project/static/js/main.cba324f4.chunk.js",
-    "main.js.map": "/weather-project/static/js/main.cba324f4.chunk.js.map",
+    "main.css": "/weather-project/static/css/main.6d857c0d.chunk.css",
+    "main.js": "/weather-project/static/js/main.fb5b734c.chunk.js",
+    "main.js.map": "/weather-project/static/js/main.fb5b734c.chunk.js.map",
     "runtime-main.js": "/weather-project/static/js/runtime-main.9a95a8d7.js",
     "runtime-main.js.map": "/weather-project/static/js/runtime-main.9a95a8d7.js.map",
-    "static/js/2.c47961fa.chunk.js": "/weather-project/static/js/2.c47961fa.chunk.js",
-    "static/js/2.c47961fa.chunk.js.map": "/weather-project/static/js/2.c47961fa.chunk.js.map",
+    "static/js/2.fa86bd25.chunk.js": "/weather-project/static/js/2.fa86bd25.chunk.js",
+    "static/js/2.fa86bd25.chunk.js.map": "/weather-project/static/js/2.fa86bd25.chunk.js.map",
     "index.html": "/weather-project/index.html",
-    "precache-manifest.a0221cb0d00551ddd47cab8d1462b82a.js": "/weather-project/precache-manifest.a0221cb0d00551ddd47cab8d1462b82a.js",
+    "precache-manifest.cbf4d03347702f33df79ba7a71f644f6.js": "/weather-project/precache-manifest.cbf4d03347702f33df79ba7a71f644f6.js",
     "service-worker.js": "/weather-project/service-worker.js",
-    "static/css/main.eb207c3e.chunk.css.map": "/weather-project/static/css/main.eb207c3e.chunk.css.map",
-    "static/js/2.c47961fa.chunk.js.LICENSE.txt": "/weather-project/static/js/2.c47961fa.chunk.js.LICENSE.txt"
+    "static/css/main.6d857c0d.chunk.css.map": "/weather-project/static/css/main.6d857c0d.chunk.css.map",
+    "static/js/2.fa86bd25.chunk.js.LICENSE.txt": "/weather-project/static/js/2.fa86bd25.chunk.js.LICENSE.txt",
+    "static/media/clear.jpg": "/weather-project/static/media/clear.b4cbe3b6.jpg",
+    "static/media/overcast.jpg": "/weather-project/static/media/overcast.b38ce85c.jpg",
+    "static/media/rain.jpg": "/weather-project/static/media/rain.4ce5a7d0.jpg",
+    "static/media/storm.jpg": "/weather-project/static/media/storm.638b558d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9a95a8d7.js",
-    "static/js/2.c47961fa.chunk.js",
-    "static/css/main.eb207c3e.chunk.css",
-    "static/js/main.cba324f4.chunk.js"
+    "static/js/2.fa86bd25.chunk.js",
+    "static/css/main.6d857c0d.chunk.css",
+    "static/js/main.fb5b734c.chunk.js"
   ]
 }
