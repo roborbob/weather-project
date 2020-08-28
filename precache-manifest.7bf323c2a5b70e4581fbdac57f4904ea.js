@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7735e0aeb3015b327e82ad533b3269d7",
+    "revision": "af215950e2e232f71d177b74dfd427f6",
     "url": "/weather-project/index.html"
   },
   {
-    "revision": "e2e5472194b3c4a994b4",
-    "url": "/weather-project/static/css/main.b4194c79.chunk.css"
+    "revision": "2e83cebf6eb15e763c01",
+    "url": "/weather-project/static/css/main.131b44c3.chunk.css"
   },
   {
-    "revision": "378a85df93803ab77879",
-    "url": "/weather-project/static/js/2.4947983f.chunk.js"
+    "revision": "03fd0c724e518b15f9e9",
+    "url": "/weather-project/static/js/2.4cd5e23e.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/weather-project/static/js/2.4947983f.chunk.js.LICENSE.txt"
+    "url": "/weather-project/static/js/2.4cd5e23e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e2e5472194b3c4a994b4",
-    "url": "/weather-project/static/js/main.093a704a.chunk.js"
+    "revision": "2e83cebf6eb15e763c01",
+    "url": "/weather-project/static/js/main.8aa6eda1.chunk.js"
   },
   {
     "revision": "95dc905078e35cc44003",

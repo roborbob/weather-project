@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/weather-project/static/css/main.b4194c79.chunk.css",
-    "main.js": "/weather-project/static/js/main.093a704a.chunk.js",
-    "main.js.map": "/weather-project/static/js/main.093a704a.chunk.js.map",
+    "main.css": "/weather-project/static/css/main.131b44c3.chunk.css",
+    "main.js": "/weather-project/static/js/main.8aa6eda1.chunk.js",
+    "main.js.map": "/weather-project/static/js/main.8aa6eda1.chunk.js.map",
     "runtime-main.js": "/weather-project/static/js/runtime-main.9a95a8d7.js",
     "runtime-main.js.map": "/weather-project/static/js/runtime-main.9a95a8d7.js.map",
-    "static/js/2.4947983f.chunk.js": "/weather-project/static/js/2.4947983f.chunk.js",
-    "static/js/2.4947983f.chunk.js.map": "/weather-project/static/js/2.4947983f.chunk.js.map",
+    "static/js/2.4cd5e23e.chunk.js": "/weather-project/static/js/2.4cd5e23e.chunk.js",
+    "static/js/2.4cd5e23e.chunk.js.map": "/weather-project/static/js/2.4cd5e23e.chunk.js.map",
     "index.html": "/weather-project/index.html",
-    "precache-manifest.a5c7ebbe9b243bf59657427545a14862.js": "/weather-project/precache-manifest.a5c7ebbe9b243bf59657427545a14862.js",
+    "precache-manifest.7bf323c2a5b70e4581fbdac57f4904ea.js": "/weather-project/precache-manifest.7bf323c2a5b70e4581fbdac57f4904ea.js",
     "service-worker.js": "/weather-project/service-worker.js",
-    "static/css/main.b4194c79.chunk.css.map": "/weather-project/static/css/main.b4194c79.chunk.css.map",
-    "static/js/2.4947983f.chunk.js.LICENSE.txt": "/weather-project/static/js/2.4947983f.chunk.js.LICENSE.txt",
+    "static/css/main.131b44c3.chunk.css.map": "/weather-project/static/css/main.131b44c3.chunk.css.map",
+    "static/js/2.4cd5e23e.chunk.js.LICENSE.txt": "/weather-project/static/js/2.4cd5e23e.chunk.js.LICENSE.txt",
     "static/media/clear.jpg": "/weather-project/static/media/clear.b4cbe3b6.jpg",
     "static/media/overcast.jpg": "/weather-project/static/media/overcast.b38ce85c.jpg",
     "static/media/rain.jpg": "/weather-project/static/media/rain.4ce5a7d0.jpg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9a95a8d7.js",
-    "static/js/2.4947983f.chunk.js",
-    "static/css/main.b4194c79.chunk.css",
-    "static/js/main.093a704a.chunk.js"
+    "static/js/2.4cd5e23e.chunk.js",
+    "static/css/main.131b44c3.chunk.css",
+    "static/js/main.8aa6eda1.chunk.js"
   ]
 }
